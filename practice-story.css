@@ -1,11 +1,11 @@
 body {
-  font-family: 'Times New Roman', 'Franklin Gothic Medium', Arial;
+  font-family: 'Times New Roman', Arial, 'Franklin Gothic Medium';
   font-size: 62.5%;
 }
 
-p, ol {
+p, ol, ul {
   font-size: 1.2rem;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
 
 article {
@@ -30,7 +30,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin: 16px 0;
 }
 
@@ -54,4 +54,13 @@ h4 {
 .byline {
   font-family: Arial, 'Times New Roman';
   font-size: .9rem;
+}
+
+.quote {
+  border-left: 4px solid grey;
+  padding-left: 20px;
+}
+
+ol {
+  list-style-position: inside;
 }
