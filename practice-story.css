@@ -1,0 +1,57 @@
+body {
+  font-family: 'Times New Roman', 'Franklin Gothic Medium', Arial;
+  font-size: 62.5%;
+}
+
+p, ol {
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+}
+
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
+
+@font-face {
+  font-family: 'Ubuntu', sans-serif;
+  src: 'https://fonts.googleapis.com/css?family=Ubuntu';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-size: 2.75rem;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin: 16px 0;
+}
+
+h3 {
+  font-size: 1.3rem;
+  margin: 14px 0;
+}
+
+h4 {
+  font-size: .9rem;
+  margin: 18px 0;
+}
+
+.credit {
+  font-family: Arial, 'Times New Roman';
+  font-size: .8rem;
+  text-align: right;
+  margin: 0 0 18px 0;
+}
+
+.byline {
+  font-family: Arial, 'Times New Roman';
+  font-size: .9rem;
+}
