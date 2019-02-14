@@ -1,5 +1,5 @@
-# HTML practice assignment
+# CSS practice assignment
 
 - Julia Jones
 
-- Due Feb. 10
+- Due Feb. 17
